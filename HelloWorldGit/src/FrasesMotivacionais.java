@@ -8,6 +8,7 @@ public class FrasesMotivacionais {
 			System.out.println("3. O fim de um ciclo sempre traz o início de um novo caminho.");
 			System.out.println("4. Não importa o quão lento você vá desde que você não pare.");
 			System.out.println("5. Comece onde você está. Use o que você tem. Faça o que você pode.");
+			System.out.println("6. Tudo que um sonho precisa para ser realizado é alguém que acredite que ele pode ser realizado.");
 			System.out.println("\nFim das frases motivacionais.");
 
 		}
